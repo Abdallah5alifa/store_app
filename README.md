@@ -1,6 +1,6 @@
 # store_app
 
-A new Flutter project.
+Flutter, Electrical store app, Mobile app development.
 
 ## Getting Started
 
