@@ -7,6 +7,8 @@ Flutter, Electrical store app, Mobile app development.
 
 
 This project is a starting point for a Flutter application.
+![Uploading Screenshot_1727947034.png…]()
+
 
 A few resources to get you started if this is your first Flutter project:
 
